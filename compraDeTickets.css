@@ -1,0 +1,9 @@
+.btnDelasTarjetitas:hover {
+    cursor: pointer;
+    animation: pulse;
+    animation-duration: 2s;
+}
+
+.selectDeDesc:hover {
+    cursor: pointer;
+}

@@ -1,0 +1,53 @@
+/* -- El Nav ----- */
+.elNav {
+    background-color: rgb(51, 58, 64);
+}
+
+.navLinks {
+    margin-right: 4rem;
+}
+
+.links a {
+    text-decoration: none;
+    font-size: 17px;
+}
+
+/* ================================ */
+
+
+/* --- Carrusel ----- */
+.imagenFondo {
+    filter: brightness(50%);
+}
+
+.btnVerde {
+    background-color: rgb(41, 167, 68);
+    color: white;
+}
+/* ======================= */
+
+
+/* --- Foto de la playa */
+.col2 {
+    background-color: rgb(53, 58, 64);
+}
+/* ======================= */
+
+
+/* -- Formulario */
+.btnEnviar {
+    background-color: rgb(150, 201, 62);
+}
+/* ================ */
+
+
+/* --- Footer --- */
+.navAbajo {
+    background-color: rgb(29, 64, 84);
+    padding: 2rem;
+}
+
+.linksAbajo a {
+    text-decoration: none;
+}
+/* ==================== */
